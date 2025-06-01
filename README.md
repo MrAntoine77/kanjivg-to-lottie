@@ -12,7 +12,7 @@ Please respect the original license terms when using this data.
 
 # KanjiVG to Lottie Converter
 
-This Python project converts KanjiVG SVG files into Lottie JSON animations.g
+This Python project converts KanjiVG SVG files into Lottie JSON animations
 
 ## Features
 
